@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/Julio Huerta/AndroidStudioProjects/AdaptersOnAdapters/app/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/Julio Huerta/AndroidStudioProjects/AdaptersOnAdapters/app/src/main/res/layout/holder_main_profile.xml" value="0.268" />
+        <entry key="..\:/Users/Julio Huerta/AndroidStudioProjects/AdaptersOnAdapters/app/src/main/res/layout/holder_profile_actions.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Julio Huerta/AndroidStudioProjects/AdaptersOnAdapters/app/src/main/res/layout/holder_profile_pictures.xml" value="0.1" />
         <entry key="..\:/Users/Julio Huerta/AndroidStudioProjects/AdaptersOnAdapters/app/src/main/res/layout/home_fragment.xml" value="0.1" />
       </map>
     </option>
